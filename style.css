@@ -1,16 +1,11 @@
 @font-face {
     font-family: futura;
-    src: url(/assets/fonts/Futura-Bold.ttf);
+    src: url(assets/fonts/Futura-Bold.ttf);
 }
 
 @font-face {
     font-family: hell;
-    src: url(/assets/fonts/helvetica-now-text-regular-woff-2-4479bd.ttf);
-}
-
-@font-face {
-    font-family: abc;
-    src: url(/assets/fonts/ABCSocialMono-Regular.ttf);
+    src: url(assets/fonts/helvetica-now-text-regular-woff-2-4479bd.ttf);
 }
 
 *{
